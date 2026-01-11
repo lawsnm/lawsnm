@@ -1,5 +1,7 @@
 # About Me:
-Undergraduate student pursuing B.S. in Cybersecurity with a minor in Computer Science. Building upon a strong family tradition, I am forging my professional path by transitioning into the IT field. I'm dedicated to leveraging technology to innovate and create a modern legacy that honors my roots.<br><br>Passionate about designing and implementing secure digital environments, my focus is on information technology and cloud technology solutions. I am eager to apply my detail-oriented problem-solving skills to high-level security design challenges.<br>Programming Languages: C++<br>Frameworks & Tools: Visual Studio, Wireshark, Cisco Packet Tracer, UML and Power BI<br>Skills: Agentic AI, AI Automation, Agile, Essentials Soft Skill, Microsoft Office, and SOLID Design Principles<br>
+Undergraduate student pursuing B.S. in Cybersecurity with a minor in Computer Science. Building upon a strong family tradition, I am forging my professional path by transitioning into the IT field. I'm dedicated to leveraging technology to innovate and create a modern legacy that honors my roots.<br><br>Passionate about designing and implementing secure digital environments, my focus is on information technology and cloud technology solutions. I am eager to apply my detail-oriented problem-solving skills to high-level security design challenges.
+<br>Programming Languages: C++<br>
+Frameworks & Tools: Visual Studio, Wireshark, Cisco Packet Tracer, UML and Power BI<br>Skills: Agentic AI, AI Automation, Agile, Essentials Soft Skill, Microsoft Office, and SOLID Design Principles<br>
 
 
 ## 🌐 Socials:
