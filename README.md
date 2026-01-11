@@ -4,7 +4,7 @@ Undergraduate student pursuing B.S. in Cybersecurity with a minor in Computer Sc
 <br>**Programming Languages**: C++<br>
 **Frameworks & Tools**: Visual Studio, Wireshark, Cisco Packet Tracer, UML and Power BI
 <br>**Skills**: Agentic AI, AI Automation, Agile, Essentials Soft Skill, Microsoft Office, and SOLID Design Principles<br>
-
+**Planned Skills**: Python, Linux, Pi-Hole, and Homelab Servers
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nasirlaws/) 
