@@ -1,4 +1,4 @@
-# About Me:
+
 # I'm Nasir Laws
 ## Undergraduate Cybersecurity / Computer Science Student
 
