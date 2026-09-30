@@ -1,5 +1,6 @@
 # About Me:
-Cybersecurity / Computer Science.
+# I'm Nasir Laws
+## Undergraduate Cybersecurity / Computer Science Student
 
 ## 💻 Tech Stack:
 
