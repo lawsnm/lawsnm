@@ -4,7 +4,7 @@ Undergraduate Cybersecurity / Computer Science Student
 
 ## 💻 Tech Stack:
 
-<br>• **Programming & Technical**: C++, Python, Bash, Information Security <br>
+<br>• **Programming & Technical**: C++, Python, Bash  <br>
 • **Tools & Systems**: Kali Linux, Wireshark, VirtualBox, Visual Studio, Cisco Packet Tracer, Power BI, UML, 
 Security Systems, n8n 
 <br>• **Operating Systems & Frameworks**: Windows, Linux, Agentic AI, AI Automation, Agile, SOLID Design 
